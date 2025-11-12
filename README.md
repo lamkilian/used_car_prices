@@ -2,7 +2,7 @@
 This is the repository for the projet in our Data Science course (LTAT.02.002). Our project is about predicting the prices of used cars.
 
 ## Members
-- Gerrit Mark
+- Gerrit Nocker
 - Kilian Lamprecht
 
 ## Data
